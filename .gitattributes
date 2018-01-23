@@ -1,1 +1,2 @@
 vars/* filter=git-crypt diff=git-crypt
+super_secret filter=git-crypt diff=git-crypt
